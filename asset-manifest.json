@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/mxiaruliRomani/static/css/main.45a53271.css",
-    "main.js": "/mxiaruliRomani/static/js/main.60e39dc4.js",
+    "main.css": "/mxiaruliRomani/static/css/main.05a794c4.css",
+    "main.js": "/mxiaruliRomani/static/js/main.b569bf54.js",
     "static/media/mukhambazi.mp3": "/mxiaruliRomani/static/media/mukhambazi.e99c8293503b62872288.mp3",
     "static/media/nashebi.png": "/mxiaruliRomani/static/media/nashebi.7cdbb172d23c0728d642.png",
+    "static/media/coverTest.png": "/mxiaruliRomani/static/media/coverTest.5d39dd85d89b591264ed.png",
     "static/media/Ifeelgood.mp3": "/mxiaruliRomani/static/media/Ifeelgood.9a0a6312dba56b60b9b5.mp3",
     "static/media/serenada.png": "/mxiaruliRomani/static/media/serenada.7819b2c0a68b61549600.png",
     "static/media/mummy.jpg": "/mxiaruliRomani/static/media/mummy.9027a650470400cd2228.jpg",
     "index.html": "/mxiaruliRomani/index.html",
-    "main.45a53271.css.map": "/mxiaruliRomani/static/css/main.45a53271.css.map",
-    "main.60e39dc4.js.map": "/mxiaruliRomani/static/js/main.60e39dc4.js.map"
+    "main.05a794c4.css.map": "/mxiaruliRomani/static/css/main.05a794c4.css.map",
+    "main.b569bf54.js.map": "/mxiaruliRomani/static/js/main.b569bf54.js.map"
   },
   "entrypoints": [
-    "static/css/main.45a53271.css",
-    "static/js/main.60e39dc4.js"
+    "static/css/main.05a794c4.css",
+    "static/js/main.b569bf54.js"
   ]
 }
